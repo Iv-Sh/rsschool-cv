@@ -7,6 +7,11 @@
 * Marital status: married
 * Date of birth:  22th January 1981.
 * Email: k_22@tut.by
+
+## Social
+* [Instagram](https://www.instagram.com/shyposhyn/)
+* [Facebook](https://www.facebook.com/bludniykot)
+
  
 ## Education
 * Secondary school;
