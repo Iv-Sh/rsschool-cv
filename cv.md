@@ -8,31 +8,31 @@
 * Date of birth:  22th January 1981.
 * Email: k_22@tut.by
  
-# Education
+## Education
 * Secondary school;
 * College radio mechanic.
  
-# Qualifications Work experience
+## Qualifications Work experience
 * Administration Joomla, WordPress, MODX;
 * Working with website hosting;
 * Content manager, SEO.
 
-# Language skills
+## Language skills
 * Native Ukrainian
 * Fluent Russian
 * Basic knowledge English
 
-# Personal qualities
+## Personal qualities
 * Initiative
 * creative
 * determined
 * sociable
 * industrious
 
-# Special skills
+## Special skills
 - Driving License: Category B, С;
 - Computer literacy: Microsoft Office; Adobe Photoshop; Microsoft Excel;
 - Hobbies: Car repair and restoration; photography.
 
-# Objective
+### Objective
 > New knowledge...
