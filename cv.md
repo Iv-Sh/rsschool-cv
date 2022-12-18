@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>cv</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="assets/favicon.ico">
-</head>
-<body>
-    
-</body>
-</html>
-
-
-
 # Personal information
 ![Foto](https://pbs.twimg.com/profile_images/1558719480678830081/npQxsO9Z_400x400.jpg)
 * Name: Ivan Shyposhyn
