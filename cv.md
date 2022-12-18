@@ -11,6 +11,19 @@
 </head>
 <body>
   <header class="header">
+    <div class="container header-container">
+     <nav class="nav">
+        <ul class="nav-list">          
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          <li class="nav-item"><a href="#social" class="nav-link">Summary</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Skills</a></li>          
+          <li class="nav-item"><a href="#qualifications Work experience" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#language skills" class="nav-link">Projects</a></li>
+          <li class="nav-item"><a href="#personal qualities" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#Special skills" class="nav-link">English</a></li>
+        </ul>
+       </nav>
+    </div>
   </header> 
   <hr>
 </body>
