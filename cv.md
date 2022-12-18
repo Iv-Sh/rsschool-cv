@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>cv</title>
+  <link rel="icon" href="./image/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+
+
+
 # Personal information
 ![Foto](https://pbs.twimg.com/profile_images/1558719480678830081/npQxsO9Z_400x400.jpg)
 * Name: Ivan Shyposhyn
