@@ -2,31 +2,17 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <title>cv</title>
-  <link rel="icon" href="./image/favicon.ico">
-  <link href="https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@300&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
 </head>
 <body>
-  <header class="header">
-    <div class="container header-container">
-     <nav class="nav">
-        <ul class="nav-list">          
-          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-          <li class="nav-item"><a href="#social" class="nav-link">Summary</a></li>
-          <li class="nav-item"><a href="#education" class="nav-link">Skills</a></li>          
-          <li class="nav-item"><a href="#qualifications Work experience" class="nav-link">Code</a></li>
-          <li class="nav-item"><a href="#language skills" class="nav-link">Projects</a></li>
-          <li class="nav-item"><a href="#personal qualities" class="nav-link">Education</a></li>
-          <li class="nav-item"><a href="#Special skills" class="nav-link">English</a></li>
-        </ul>
-       </nav>
-    </div>
-  </header> 
-  <hr>
+    
 </body>
+</html>
 
 
 
